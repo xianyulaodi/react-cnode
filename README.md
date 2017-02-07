@@ -4,5 +4,5 @@
 2.  用到的技术栈：react、react-router、es6、webpack、redux
 3.  效果图如下：
 4.  使用方法：
-    npm install
+    npm install <br />
     浏览器输入：http://localhost:3200
