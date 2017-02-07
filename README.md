@@ -17,8 +17,9 @@
 
 ##  四、 使用方法： <br />
 
-1.  npm install  <br />
-2.  浏览器输入：http://localhost:3200
+1.  npm install  
+2.  npm start
+3.  浏览器输入：http://localhost:3200
 
 ## 五、 总结
 
